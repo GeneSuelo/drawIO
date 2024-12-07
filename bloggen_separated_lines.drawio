@@ -1,0 +1,1158 @@
+<mxfile host="app.diagrams.net" modified="2024-02-05T00:59:47.943Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="N76NLTLNdMnjm7ueFCVE" version="23.1.1" type="device">
+  <diagram name="Sida-1" id="VVUta0CR9R4JiROS-kAs">
+    <mxGraphModel dx="1836" dy="380" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-17" target="JomCGkU0Td-zEKEgO0xe-77" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-17" value="&lt;p class=&quot;MsoNoSpacing&quot;&gt;&lt;b&gt;SÅ LÄNGE&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.loop" parent="1" vertex="1">
+          <mxGeometry x="334" y="180" width="154" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-18" value="START" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" parent="1" vertex="1">
+          <mxGeometry x="332" y="80" width="158" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-26" target="JomCGkU0Td-zEKEgO0xe-66" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2240" y="515" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-26" target="JomCGkU0Td-zEKEgO0xe-67" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-440" y="515" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-26" target="JomCGkU0Td-zEKEgO0xe-62" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-160" y="515" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-26" target="JomCGkU0Td-zEKEgO0xe-61" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="412" y="620" />
+              <mxPoint x="412" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-182" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-26" target="JomCGkU0Td-zEKEgO0xe-64" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2110" y="515" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-351" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-26" target="JomCGkU0Td-zEKEgO0xe-63" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1490" y="515" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-352" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-26" target="JomCGkU0Td-zEKEgO0xe-65" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1880" y="515" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-26" value="VÄLJ &quot;menu&quot;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" parent="1" vertex="1">
+          <mxGeometry x="352" y="460" width="118" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qfBdnm5MV9QDAe32HDsa-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JomCGkU0Td-zEKEgO0xe-61" target="JomCGkU0Td-zEKEgO0xe-165">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-61" value="FALL 3: // Sök inlägg i bloggen, en meny med flera funktioner" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="343" y="630" width="136" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-62" target="JomCGkU0Td-zEKEgO0xe-119" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-62" value="FALL 2: (Skriv nytt inlägg i bloggen)" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-210" y="630" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-63" value="FALL 4: // Sortera inlägg i bloggen" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="630" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qfBdnm5MV9QDAe32HDsa-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JomCGkU0Td-zEKEgO0xe-64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2320" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2110" y="820" />
+              <mxPoint x="2320" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-64" value="STANDARDFALL // default, allt annat" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="2060" y="630" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-375" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-65" target="JomCGkU0Td-zEKEgO0xe-374" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-65" value="FALL 5: // Ta bort ett inlägg från bloggen" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1830" y="630" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-66" target="JomCGkU0Td-zEKEgO0xe-114" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1894" y="765.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-66" value="FALL 9: // Avsluta programmet" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="2190" y="630" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-67" target="JomCGkU0Td-zEKEgO0xe-109" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-67" value="FALL 1: (skriv ut alla blogginlägg)" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="630" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-75" value="STOPP" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" parent="1" vertex="1">
+          <mxGeometry x="146.04" y="80" width="136" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-18" target="JomCGkU0Td-zEKEgO0xe-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-77" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="411.00000000000045" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-178" value="TRUE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JomCGkU0Td-zEKEgO0xe-117" vertex="1" connectable="0">
+          <mxGeometry x="0.003" y="-1" relative="1" as="geometry">
+            <mxPoint x="24" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-77" value="flaggan&lt;br&gt;&amp;nbsp;isRunning&lt;br&gt;är sann" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.25" parent="1" vertex="1">
+          <mxGeometry x="355" y="260" width="112" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-77" target="JomCGkU0Td-zEKEgO0xe-75" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="212" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="212" y="295" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-177" value="FALSE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JomCGkU0Td-zEKEgO0xe-85" vertex="1" connectable="0">
+          <mxGeometry x="-0.1222" y="5" relative="1" as="geometry">
+            <mxPoint x="99" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qfBdnm5MV9QDAe32HDsa-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2320" y="480" as="targetPoint" />
+            <mxPoint x="-500" y="740" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-670" y="740" />
+              <mxPoint x="-670" y="2050" />
+              <mxPoint x="2320" y="2050" />
+              <mxPoint x="2320" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-87" value="FÖR så många gånger som det finns inlägg i bloggen" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.loop" parent="1" vertex="1">
+          <mxGeometry x="-500" y="790" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-91" target="JomCGkU0Td-zEKEgO0xe-112" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-440" y="1050" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-91" value="FÖR VARJE rad i inlägget" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.loop" parent="1" vertex="1">
+          <mxGeometry x="-510" y="870" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-87" target="JomCGkU0Td-zEKEgO0xe-91" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-302" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-103" target="JomCGkU0Td-zEKEgO0xe-125" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-103" value="&lt;p class=&quot;MsoNoSpacing&quot;&gt;&lt;b&gt;SÅ LÄNGE&lt;/b&gt;&lt;br&gt;&lt;/p&gt;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.loop" parent="1" vertex="1">
+          <mxGeometry x="-237" y="830" width="154" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-109" target="JomCGkU0Td-zEKEgO0xe-87" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-109" value="rensa konsolen&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;skriv ut att alla inlägg kommer visas" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="-520" y="710" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-112" value="skriv ut raden" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="970" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qfBdnm5MV9QDAe32HDsa-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JomCGkU0Td-zEKEgO0xe-114">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2320.0476190476193" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2240" y="790" />
+              <mxPoint x="2320" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-114" value="sätt flaggan isRunning till &quot;false&quot;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="2190" y="710" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="JomCGkU0Td-zEKEgO0xe-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="411.00000000000045" y="430" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-115" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;rensa konsolen&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;skriv ut huvudmenyn&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;spara användarens val&lt;br&gt;i &quot;menu&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="290" y="360" width="198" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-119" target="JomCGkU0Td-zEKEgO0xe-103" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-119" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;sätt strängen &quot;title&quot; till &quot;&quot;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;skapa listan &quot;content&quot;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;rensa konsolen&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;skriv ut uppmaning att mata&lt;br&gt;in innehållstext&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="-270" y="710" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.476;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-112" target="JomCGkU0Td-zEKEgO0xe-91" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-570" y="995" />
+              <mxPoint x="-570" y="903" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-91" target="JomCGkU0Td-zEKEgO0xe-87" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-340" y="905" />
+              <mxPoint x="-340" y="810" />
+            </Array>
+            <mxPoint x="-360" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-125" target="JomCGkU0Td-zEKEgO0xe-127" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-125" value="spara användarens inmatning i &quot;title&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="910" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-127" target="JomCGkU0Td-zEKEgO0xe-129" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-282" value="TRUE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JomCGkU0Td-zEKEgO0xe-131" vertex="1" connectable="0">
+          <mxGeometry x="0.36" y="-2" relative="1" as="geometry">
+            <mxPoint x="22" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-303" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-127" target="JomCGkU0Td-zEKEgO0xe-133" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-280" y="1160" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-290" y="1015" />
+              <mxPoint x="-290" y="1225" />
+            </Array>
+            <mxPoint x="-270" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-304" value="FALSE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JomCGkU0Td-zEKEgO0xe-303" vertex="1" connectable="0">
+          <mxGeometry x="-0.8195" y="3" relative="1" as="geometry">
+            <mxPoint x="12" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-127" value="OM &quot;title&quot; är tom" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.25" parent="1" vertex="1">
+          <mxGeometry x="-220" y="990" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-129" value="instruera användaren" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="-210" y="1070" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.99;entryY=0.41;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-129" target="JomCGkU0Td-zEKEgO0xe-103" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-160" y="1150" />
+              <mxPoint x="-50" y="1150" />
+              <mxPoint x="-50" y="850" />
+              <mxPoint x="-85" y="850" />
+            </Array>
+            <mxPoint x="-70" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-133" target="JomCGkU0Td-zEKEgO0xe-134" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-133" value="be användaren mata in&lt;br&gt;postinnehåll och att&lt;br&gt;avsluta med en ensam&lt;br&gt;punkt på en rad" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="-260" y="1180" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-134" target="JomCGkU0Td-zEKEgO0xe-136" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-134" value="SÅ LÄNGE sant" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.loop" parent="1" vertex="1">
+          <mxGeometry x="-230" y="1300" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-136" target="JomCGkU0Td-zEKEgO0xe-138" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-136" value="spara användarens inmatning i &quot;input&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="1380" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-138" target="JomCGkU0Td-zEKEgO0xe-140" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-138" target="JomCGkU0Td-zEKEgO0xe-142" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-286" value="TRUE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JomCGkU0Td-zEKEgO0xe-144" vertex="1" connectable="0">
+          <mxGeometry x="-0.0963" y="-2" relative="1" as="geometry">
+            <mxPoint x="-82" y="-67" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-411" value="FALSE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JomCGkU0Td-zEKEgO0xe-144" vertex="1" connectable="0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="20" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-138" value="OM &quot;input&quot; är en punkt (&quot;.&quot;)" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.25" parent="1" vertex="1">
+          <mxGeometry x="-220" y="1480" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-149" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-140" target="JomCGkU0Td-zEKEgO0xe-148" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-140" value="BRYT" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="1490" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-142" target="JomCGkU0Td-zEKEgO0xe-143" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-142" value="ANNARS" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.25" parent="1" vertex="1">
+          <mxGeometry x="-210" y="1580" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-143" value="lägg till &quot;input&quot; i&lt;br&gt;listan &quot;content&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="1660" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-143" target="JomCGkU0Td-zEKEgO0xe-133" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-50" y="1694" />
+              <mxPoint x="-50" y="1225" />
+            </Array>
+            <mxPoint x="-80" y="1694" as="sourcePoint" />
+            <mxPoint x="-70" y="1225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-148" target="JomCGkU0Td-zEKEgO0xe-150" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-148" value="&lt;div&gt;skapa en strängvektor med 2 + antalet inmatade innehållsrader element som heter &quot;blogpost&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; spara en tidsstämpel i formatet&lt;br&gt;YYYY-MM-DD HH:MM:SS i &quot;blogpost&quot; element 0&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; spara title i &quot;blogpost&quot; element 1&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-580" y="1370" width="280" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-150" value="spara &quot;2&quot; i räknaren &quot;element&quot;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-490" y="1291" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-152" target="JomCGkU0Td-zEKEgO0xe-153" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-152" target="JomCGkU0Td-zEKEgO0xe-158" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-152" value="FÖR VARJE rad i &quot;content&quot;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.loop" parent="1" vertex="1">
+          <mxGeometry x="-500" y="1210" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-153" value="&lt;div&gt;spara raden i blogpost[element]&lt;/div&gt;&lt;div&gt;öka &quot;element&quot;-räknaren med 1&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-510" y="1110" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-150" target="JomCGkU0Td-zEKEgO0xe-152" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.993;entryY=0.498;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-153" target="JomCGkU0Td-zEKEgO0xe-152" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-340" y="1145" />
+              <mxPoint x="-340" y="1235" />
+            </Array>
+            <mxPoint x="-360" y="1235" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qfBdnm5MV9QDAe32HDsa-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JomCGkU0Td-zEKEgO0xe-158">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2320" y="460" as="targetPoint" />
+            <mxPoint x="-650" y="1230" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-670" y="1235" />
+              <mxPoint x="-670" y="2050" />
+              <mxPoint x="2320" y="2050" />
+              <mxPoint x="2320" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-158" value="spara &quot;blogpost&quot; i myBlog" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="-640" y="1210" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-161" value="FALL 2: // Sök linjärt efter ord i alla inläggstexter" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="364" y="1020" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-310" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-162" target="JomCGkU0Td-zEKEgO0xe-305" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-162" value="FALL 3: // Sök binärt efter inlägg med specifik tidsstämpel i bloggen" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="798" y="1030" width="142" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-163" target="JomCGkU0Td-zEKEgO0xe-183" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-163" value="FALL 1: // Sök linjärt efter ord i alla inläggs titel" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="70" y="1020" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="JomCGkU0Td-zEKEgO0xe-167" edge="1" source="JomCGkU0Td-zEKEgO0xe-165">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413.99999999999955" y="835" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="414" y="830" />
+              <mxPoint x="415" y="830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-165" value="&lt;div&gt;skapa en lista med nummer som&lt;br&gt;heter &quot;searchresult&quot;&lt;/div&gt;&lt;div&gt;spara &quot;&quot; i en sträng med namn &quot;key&quot;&lt;/div&gt;&lt;div&gt;rensa konsolen&lt;/div&gt;&lt;div&gt;skriv ut sökmenyns alternativ&lt;/div&gt;&lt;div&gt;spara användarens inmatning&lt;br&gt;i &quot;searchmenu&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="269" y="710" width="290" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-167" target="JomCGkU0Td-zEKEgO0xe-161" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qfBdnm5MV9QDAe32HDsa-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JomCGkU0Td-zEKEgO0xe-167" target="JomCGkU0Td-zEKEgO0xe-163">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qfBdnm5MV9QDAe32HDsa-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JomCGkU0Td-zEKEgO0xe-167" target="JomCGkU0Td-zEKEgO0xe-162">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="869" y="925" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qfBdnm5MV9QDAe32HDsa-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JomCGkU0Td-zEKEgO0xe-167" target="JomCGkU0Td-zEKEgO0xe-348">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1240" y="925" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-167" value="VÄLJ &quot;searchmenu&quot;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" parent="1" vertex="1">
+          <mxGeometry x="339" y="860" width="152" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-187" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-183" target="JomCGkU0Td-zEKEgO0xe-185" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-183" value="&lt;div&gt;nollställ &quot;searchresult&quot;&lt;/div&gt;&lt;div&gt;rensa konsolen&lt;/div&gt;&lt;div&gt;skriv ut uppmaning att mata in sökord&lt;/div&gt;&lt;div&gt;spara användarens inmatning i &quot;key&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="-20" y="1100" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-185" target="JomCGkU0Td-zEKEgO0xe-186" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-196" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.978;exitY=0.477;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" source="JomCGkU0Td-zEKEgO0xe-185">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="202" y="1245.0400000000002" as="sourcePoint" />
+            <mxPoint x="236.03999999999996" y="1660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="177" y="1245" />
+              <mxPoint x="236" y="1245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-185" value="FÖR alla inlägg i bloggen" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.loop" parent="1" vertex="1">
+          <mxGeometry x="60" y="1220" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-186" target="JomCGkU0Td-zEKEgO0xe-189" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-186" value="FÖR VARJE ord i varje titel, i varje inlägg" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.loop" parent="1" vertex="1">
+          <mxGeometry x="60" y="1300" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-189" target="JomCGkU0Td-zEKEgO0xe-191" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-278" value="TRUE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JomCGkU0Td-zEKEgO0xe-192" vertex="1" connectable="0">
+          <mxGeometry x="0.08" y="-1" relative="1" as="geometry">
+            <mxPoint x="23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-189" value="OM &quot;key&quot; är nuvarande ord" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.25" parent="1" vertex="1">
+          <mxGeometry x="60" y="1380" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-191" value="lägg till nuvarande inläggs indexnummer i listan &quot;searchresult&quot;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="40" y="1460" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-191" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="178" y="1320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="218" y="1485" />
+              <mxPoint x="218" y="1320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-194" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.021;entryY=0.443;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-186" target="JomCGkU0Td-zEKEgO0xe-185" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8" y="1325" />
+              <mxPoint x="8" y="1242" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-195" target="JomCGkU0Td-zEKEgO0xe-197" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-296" value="TRUE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JomCGkU0Td-zEKEgO0xe-207" vertex="1" connectable="0">
+          <mxGeometry x="-0.6948" y="-1" relative="1" as="geometry">
+            <mxPoint x="25" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-289" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-195" target="JomCGkU0Td-zEKEgO0xe-208" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-297" value="FALSE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JomCGkU0Td-zEKEgO0xe-289" vertex="1" connectable="0">
+          <mxGeometry x="0.4477" relative="1" as="geometry">
+            <mxPoint y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-195" value="OM &quot;searchresult&quot; innehåller något" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.25" parent="1" vertex="1">
+          <mxGeometry x="166.04" y="1660" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-197" value="skriv ut att&lt;br&gt;något har hittats" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="171.04000000000005" y="1754" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-201" target="JomCGkU0Td-zEKEgO0xe-203" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-201" value="FÖR VARJE inläggsindexpositionsnummer i &quot;searchresult&quot;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.loop" parent="1" vertex="1">
+          <mxGeometry x="146.04" y="1834" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-197" target="JomCGkU0Td-zEKEgO0xe-201" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qfBdnm5MV9QDAe32HDsa-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JomCGkU0Td-zEKEgO0xe-203">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2320" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="236" y="2050" />
+              <mxPoint x="2320" y="2050" />
+              <mxPoint x="2320" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-203" value="skriv ut inläggs indexposition" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="166.04" y="1914" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-213" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-208" target="JomCGkU0Td-zEKEgO0xe-212" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-208" value="ANNARS" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.25" parent="1" vertex="1">
+          <mxGeometry y="1660" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qfBdnm5MV9QDAe32HDsa-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JomCGkU0Td-zEKEgO0xe-212">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2320" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="71" y="2050" />
+              <mxPoint x="2320" y="2050" />
+              <mxPoint x="2320" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-212" value="skriv ut att inget hittades" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="5.000000000000057" y="1754" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-219" target="JomCGkU0Td-zEKEgO0xe-226" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="1200" />
+              <mxPoint x="414" y="1200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-219" value="&lt;div&gt;nollställ &quot;searchresult&quot;&lt;/div&gt;&lt;div&gt;rensa konsolen&lt;/div&gt;&lt;div&gt;skriv ut uppmaning att mata in sökord&lt;/div&gt;&lt;div&gt;spara användarens inmatning i &quot;key&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="271" y="1115" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.99;entryY=0.491;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="qfBdnm5MV9QDAe32HDsa-24" target="JomCGkU0Td-zEKEgO0xe-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2120" y="205" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-263" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.512;entryY=-0.034;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="JomCGkU0Td-zEKEgO0xe-252" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="462" y="1245" as="sourcePoint" />
+            <mxPoint x="550" y="1650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="1245" />
+              <mxPoint x="560" y="1650" />
+              <mxPoint x="560" y="1650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-226" value="FÖR alla inlägg i bloggen" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.loop" parent="1" vertex="1">
+          <mxGeometry x="351" y="1220" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-227" value="FÖR alla innehållsrader i inlägget (indexposition 2 och framåt)" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.loop" parent="1" vertex="1">
+          <mxGeometry x="322" y="1300" width="178" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-228" value="FÖR VARJE ord i raden" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.loop" parent="1" vertex="1">
+          <mxGeometry x="342" y="1380" width="138" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-229" value="OM &quot;key&quot; är ordet" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.25" parent="1" vertex="1">
+          <mxGeometry x="346" y="1460" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-230" value="lägg till nuvarande inläggs indexnummer i listan &quot;searchresult&quot;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="331" y="1540" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.52;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-226" target="JomCGkU0Td-zEKEgO0xe-227" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="415" y="1290" />
+              <mxPoint x="415" y="1290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.525;entryY=0.03;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-228" target="JomCGkU0Td-zEKEgO0xe-229" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="1450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-238" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.512;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-161" target="JomCGkU0Td-zEKEgO0xe-219" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-239" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.494;entryY=-0.035;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-227" target="JomCGkU0Td-zEKEgO0xe-228" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-240" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.493;entryY=-0.056;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-229" target="JomCGkU0Td-zEKEgO0xe-230" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-275" value="TRUE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="JomCGkU0Td-zEKEgO0xe-240" vertex="1" connectable="0">
+          <mxGeometry x="-0.1525" relative="1" as="geometry">
+            <mxPoint x="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-246" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.412;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-229" target="JomCGkU0Td-zEKEgO0xe-228" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="1400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="1485" />
+              <mxPoint x="300" y="1401" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-276" value="FALSE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JomCGkU0Td-zEKEgO0xe-246" vertex="1" connectable="0">
+          <mxGeometry x="-0.7493" y="-1" relative="1" as="geometry">
+            <mxPoint x="2" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.002;entryY=0.536;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-228" target="JomCGkU0Td-zEKEgO0xe-227" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="1405" />
+              <mxPoint x="530" y="1327" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-248" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.008;entryY=0.44;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-227" target="JomCGkU0Td-zEKEgO0xe-226" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="1325" />
+              <mxPoint x="300" y="1242" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-250" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.409;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-230" target="JomCGkU0Td-zEKEgO0xe-228" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="1400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="1565" />
+              <mxPoint x="300" y="1400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-251" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-252" target="JomCGkU0Td-zEKEgO0xe-253" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-290" value="TRUE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JomCGkU0Td-zEKEgO0xe-251" vertex="1" connectable="0">
+          <mxGeometry x="0.0919" y="1" relative="1" as="geometry">
+            <mxPoint x="21" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-252" target="JomCGkU0Td-zEKEgO0xe-259" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-294" value="FALSE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JomCGkU0Td-zEKEgO0xe-288" vertex="1" connectable="0">
+          <mxGeometry x="0.4449" relative="1" as="geometry">
+            <mxPoint x="-1" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-252" value="OM &quot;searchresult&quot; innehåller något" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.25" parent="1" vertex="1">
+          <mxGeometry x="488.03999999999996" y="1660" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-253" value="skriv ut att&lt;br&gt;något har hittats" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="493.0400000000001" y="1754" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-255" target="JomCGkU0Td-zEKEgO0xe-257" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-255" value="FÖR VARJE inläggsindexpositionsnummer i &quot;searchresult&quot;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.loop" parent="1" vertex="1">
+          <mxGeometry x="468.03999999999996" y="1834" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-256" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-253" target="JomCGkU0Td-zEKEgO0xe-255" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qfBdnm5MV9QDAe32HDsa-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JomCGkU0Td-zEKEgO0xe-257">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2320" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="558" y="2050" />
+              <mxPoint x="2320" y="2050" />
+              <mxPoint x="2320" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-257" value="skriv ut inläggs indexposition" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="488.03999999999996" y="1914" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-259" target="JomCGkU0Td-zEKEgO0xe-260" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-259" value="ANNARS" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.25" parent="1" vertex="1">
+          <mxGeometry x="322" y="1660" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-260" value="skriv ut att inget hittades" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="327.00000000000006" y="1754" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-277" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-189" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="178" y="1320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="218" y="1405" />
+              <mxPoint x="218" y="1320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-279" value="FALSE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JomCGkU0Td-zEKEgO0xe-277" vertex="1" connectable="0">
+          <mxGeometry x="-0.7911" relative="1" as="geometry">
+            <mxPoint x="-7" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-305" value="&lt;div&gt;&lt;div&gt;rensa konsolen&lt;/div&gt;&lt;div&gt;KALLA PÅ metoden sortBlog med&lt;br&gt;argumenten myBlog och 0&lt;/div&gt;&lt;div&gt;skriv ut att man kan söka efter tidsstämplar&lt;br&gt;i formatet YYYY-MM-DD HH:MM:SS&lt;/div&gt;&lt;div&gt;spara användarens inmatning i &quot;key&quot;&lt;br&gt;&lt;div&gt;spara siffran 0 i &quot;first&quot;&lt;/div&gt;&lt;div&gt;spara siffran för antalet blogginlägg - 1 i &quot;last&quot;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="668" y="1110" width="402" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-309" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-306" target="JomCGkU0Td-zEKEgO0xe-307" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-306" value="SÅ LÄNGE SOM &quot;first&quot; är mindre än eller lika med &quot;last&quot;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.loop" parent="1" vertex="1">
+          <mxGeometry x="809" y="1260" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-313" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-307" target="JomCGkU0Td-zEKEgO0xe-311" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="869" y="1440" />
+              <mxPoint x="708" y="1440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-317" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-307" target="JomCGkU0Td-zEKEgO0xe-316" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="869" y="1440" />
+              <mxPoint x="1060" y="1440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-307" value="spara (&quot;first&quot; + &quot;last&quot;) / 2 i &quot;mellan&quot;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="819" y="1360" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-308" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-305" target="JomCGkU0Td-zEKEgO0xe-306" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-314" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-311" target="JomCGkU0Td-zEKEgO0xe-312" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-315" value="TRUE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JomCGkU0Td-zEKEgO0xe-314" vertex="1" connectable="0">
+          <mxGeometry x="0.36" relative="1" as="geometry">
+            <mxPoint x="21" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-324" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-311" target="JomCGkU0Td-zEKEgO0xe-318" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-326" value="FALSE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JomCGkU0Td-zEKEgO0xe-324" vertex="1" connectable="0">
+          <mxGeometry x="-0.7814" y="2" relative="1" as="geometry">
+            <mxPoint x="5" y="-23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-311" value="OM &quot;key&quot; är större än blogginläggets med indexnumret &quot;middle&quot;:s tidsstämpel" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.25" parent="1" vertex="1">
+          <mxGeometry x="626.08" y="1470" width="163.92" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-312" value="spara &quot;middle&quot; + 1 i &quot;first&quot;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="658.04" y="1590" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-323" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-316" target="JomCGkU0Td-zEKEgO0xe-320" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-329" value="TRUE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JomCGkU0Td-zEKEgO0xe-323" vertex="1" connectable="0">
+          <mxGeometry x="0.2991" relative="1" as="geometry">
+            <mxPoint x="20" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-325" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-316" target="JomCGkU0Td-zEKEgO0xe-318" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-328" value="FALSE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JomCGkU0Td-zEKEgO0xe-325" vertex="1" connectable="0">
+          <mxGeometry x="0.0416" y="-3" relative="1" as="geometry">
+            <mxPoint x="3" y="-28" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-316" value="ANNARS OM&lt;br&gt;&quot;key&quot; är mindre än&lt;br&gt;blogginläggets med indexnumret &quot;middle&quot;:s tidsstämpel" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.25" parent="1" vertex="1">
+          <mxGeometry x="950" y="1470" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-322" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-318" target="JomCGkU0Td-zEKEgO0xe-321" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-318" value="ANNARS" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.25" parent="1" vertex="1">
+          <mxGeometry x="818" y="1490" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-320" value="spara &quot;middle&quot; - 1 i &quot;last&quot;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1010" y="1590" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-321" value="skriv ut i vilket inlägg som tidsstämpeln lagrad i &quot;key&quot; hittades" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="817" y="1590" width="102" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-334" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-331" target="JomCGkU0Td-zEKEgO0xe-333" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-337" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-331" target="JomCGkU0Td-zEKEgO0xe-336" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="1745" />
+              <mxPoint x="770" y="1915" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-331" value="FÖR VARJE rad i det hittade inlägget" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.loop" parent="1" vertex="1">
+          <mxGeometry x="808" y="1710" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-332" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-321" target="JomCGkU0Td-zEKEgO0xe-331" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-333" value="skriv ut raden" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="818" y="1810" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-335" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.998;entryY=0.433;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-333" target="JomCGkU0Td-zEKEgO0xe-331" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="1835" />
+              <mxPoint x="970" y="1740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-340" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-336" target="JomCGkU0Td-zEKEgO0xe-338" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-336" value="BRYT" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="819" y="1890" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-341" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-338" target="JomCGkU0Td-zEKEgO0xe-339" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-343" value="TRUE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JomCGkU0Td-zEKEgO0xe-341" vertex="1" connectable="0">
+          <mxGeometry x="0.1858" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qfBdnm5MV9QDAe32HDsa-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JomCGkU0Td-zEKEgO0xe-338">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2320" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="869" y="2050" />
+              <mxPoint x="2320" y="2050" />
+              <mxPoint x="2320" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-338" value="OM &quot;first&quot; är större än &quot;last" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.25" parent="1" vertex="1">
+          <mxGeometry x="819" y="1970" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qfBdnm5MV9QDAe32HDsa-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JomCGkU0Td-zEKEgO0xe-339">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2320" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1000" y="2050" />
+              <mxPoint x="2320" y="2050" />
+              <mxPoint x="2320" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-339" value="skriv ut att inget hittades" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="950" y="1970" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-346" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.429;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-312" target="JomCGkU0Td-zEKEgO0xe-306" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="1615" />
+              <mxPoint x="600" y="1290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-347" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.998;entryY=0.433;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-320" target="JomCGkU0Td-zEKEgO0xe-306" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1200" y="1615" />
+              <mxPoint x="1200" y="1290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qfBdnm5MV9QDAe32HDsa-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JomCGkU0Td-zEKEgO0xe-348">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2320" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1241" y="2050" />
+              <mxPoint x="2320" y="2050" />
+              <mxPoint x="2320" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-348" value="STANDARDFALL // default, allt annat" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1190" y="1030" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-365" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-353" target="JomCGkU0Td-zEKEgO0xe-354" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qfBdnm5MV9QDAe32HDsa-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2320" y="320" as="targetPoint" />
+            <mxPoint x="1440" y="745.0232558139537" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1321" y="745" />
+              <mxPoint x="1321" y="2050" />
+              <mxPoint x="2320" y="2050" />
+              <mxPoint x="2320" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-353" value="FÖR alla inlägg" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.loop" parent="1" vertex="1">
+          <mxGeometry x="1440" y="730" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-354" value="&lt;div&gt;spara inläggets värde på index &quot;sortindex&quot; i &quot;blog&quot; i &quot;key&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; spara inlägget i &quot;post&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; sätt flaggan &quot;move&quot; till &quot;true&quot;&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1400" y="790" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-363" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-355" target="JomCGkU0Td-zEKEgO0xe-356" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-355" value="FÖR &quot;j&quot;, som är &quot;i&quot; - 1, så länge som &quot;j&quot; är större än eller lika med 0 och &quot;move&quot; är &quot;true&quot;" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.loop" parent="1" vertex="1">
+          <mxGeometry x="1410" y="900" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-360" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-356" target="JomCGkU0Td-zEKEgO0xe-358" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-416" value="TRUE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JomCGkU0Td-zEKEgO0xe-360" vertex="1" connectable="0">
+          <mxGeometry x="0.3733" relative="1" as="geometry">
+            <mxPoint x="-30" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-362" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-356" target="JomCGkU0Td-zEKEgO0xe-357" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-415" value="FALSE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JomCGkU0Td-zEKEgO0xe-362" vertex="1" connectable="0">
+          <mxGeometry x="0.0167" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-356" value="OM key är mindre än&lt;br&gt;föregående inläggs värde&lt;br&gt;på samma indexposition&lt;br&gt;som key" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.25" parent="1" vertex="1">
+          <mxGeometry x="1400" y="1010" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-361" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-357" target="JomCGkU0Td-zEKEgO0xe-359" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-357" value="ANNARS" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.25" parent="1" vertex="1">
+          <mxGeometry x="1620" y="1030" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-358" value="&lt;div&gt;spara inlägget &quot;j&quot; på (&quot;j&quot; + 1) i &quot;blog&quot;&lt;/div&gt;&lt;div&gt;subtrahera 1 från &quot;j&quot;&lt;/div&gt;&lt;div&gt;spara inlägget &quot;post&quot; på (&quot;j&quot; + 1) i &quot;blog&quot;&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1380" y="1130" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-359" value="sätt flaggan &quot;move&quot; till &quot;false&quot;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1620" y="1130" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-364" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-63" target="JomCGkU0Td-zEKEgO0xe-353" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-366" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-354" target="JomCGkU0Td-zEKEgO0xe-355" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-370" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-359" target="JomCGkU0Td-zEKEgO0xe-355" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1410" y="930" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1670" y="1260" />
+              <mxPoint x="1350" y="1260" />
+              <mxPoint x="1350" y="931" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-371" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.01;entryY=0.546;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-355" target="JomCGkU0Td-zEKEgO0xe-353" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1610" y="935" />
+              <mxPoint x="1610" y="746" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-372" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.002;entryY=0.444;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-358" target="JomCGkU0Td-zEKEgO0xe-355" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1350" y="1165" />
+              <mxPoint x="1350" y="931" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-398" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-374" target="JomCGkU0Td-zEKEgO0xe-397" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-374" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;rensa konsolen&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;skriv ut information och be&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;användaren mata in vilket&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;inlägg som ska tas bort&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;spara användarens inmatning&lt;br&gt;i &quot;postnumber&quot;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" parent="1" vertex="1">
+          <mxGeometry x="1760" y="730" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-381" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-376" target="JomCGkU0Td-zEKEgO0xe-377" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-386" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-376" target="JomCGkU0Td-zEKEgO0xe-382" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1750" y="1005" />
+              <mxPoint x="1750" y="1175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-376" value="FÖR VARJE rad i inlägget" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.loop" parent="1" vertex="1">
+          <mxGeometry x="1820" y="980" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-377" value="skriv ut raden" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1830" y="1060" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-388" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-382" target="JomCGkU0Td-zEKEgO0xe-387" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-382" value="&lt;div&gt;skriv ut och fråga om användaren är helt säker att man vill ta bort inlägget&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; spara användarens inmatade svar i &quot;val&quot;&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1780" y="1140" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-385" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="JomCGkU0Td-zEKEgO0xe-376" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1970" y="1086" />
+              <mxPoint x="1970" y="1010" />
+            </Array>
+            <mxPoint x="1930" y="1085.582987012987" as="sourcePoint" />
+            <mxPoint x="1950" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-391" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-387" target="JomCGkU0Td-zEKEgO0xe-389" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-393" value="TRUE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JomCGkU0Td-zEKEgO0xe-391" vertex="1" connectable="0">
+          <mxGeometry x="0.42" y="1" relative="1" as="geometry">
+            <mxPoint x="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-392" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-387" target="JomCGkU0Td-zEKEgO0xe-390" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-395" value="FALSE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JomCGkU0Td-zEKEgO0xe-392" vertex="1" connectable="0">
+          <mxGeometry x="-0.1778" y="-1" relative="1" as="geometry">
+            <mxPoint y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-387" value="OM&lt;br&gt;&quot;val&quot; är lika med &quot;ja&quot;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.25;" parent="1" vertex="1">
+          <mxGeometry x="1810" y="1241" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qfBdnm5MV9QDAe32HDsa-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2320" y="300" as="targetPoint" />
+            <mxPoint x="1880" y="1410.95" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1880" y="1470" />
+              <mxPoint x="2320" y="1470" />
+              <mxPoint x="2320" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-389" value="&lt;div&gt;ta bort inlägget från bloggen&lt;/div&gt;&lt;div&gt;skriv ut att inlägget&lt;br&gt;tagits bort&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1800" y="1341" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-390" value="ANNARS" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.25" parent="1" vertex="1">
+          <mxGeometry x="2010" y="1251" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qfBdnm5MV9QDAe32HDsa-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JomCGkU0Td-zEKEgO0xe-396">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2320" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2068" y="1440" />
+              <mxPoint x="2320" y="1440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-396" value="skriv ut vi avbryter och att inget inlägg kommer att tas bort" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="1986" y="1341" width="164" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-401" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-397" target="JomCGkU0Td-zEKEgO0xe-400" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-403" value="FALSE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JomCGkU0Td-zEKEgO0xe-401" vertex="1" connectable="0">
+          <mxGeometry x="-0.1636" y="1" relative="1" as="geometry">
+            <mxPoint y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-397" value="OM &quot;postnumber&quot; är större än 0&lt;br&gt;OCH lägre än eller lika&lt;br&gt;med antalet inlägg i bloggen" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.25" parent="1" vertex="1">
+          <mxGeometry x="1760" y="870" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-399" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-397" target="JomCGkU0Td-zEKEgO0xe-376" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-402" value="TRUE" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="JomCGkU0Td-zEKEgO0xe-399" vertex="1" connectable="0">
+          <mxGeometry x="0.1733" relative="1" as="geometry">
+            <mxPoint x="-30" y="4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-405" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="JomCGkU0Td-zEKEgO0xe-400" target="JomCGkU0Td-zEKEgO0xe-404" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-400" value="ANNARS" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;size=0.25" parent="1" vertex="1">
+          <mxGeometry x="2060" y="885" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qfBdnm5MV9QDAe32HDsa-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JomCGkU0Td-zEKEgO0xe-404">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2320" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2110" y="1080" />
+              <mxPoint x="2320" y="1080" />
+              <mxPoint x="2320" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-404" value="&lt;div&gt;skriv ut att inläggsnumret måste vara större än 0 och ej högre än det totala&lt;/div&gt;&lt;div&gt;antalet inlägg i bloggen samt vad det totala antalet inlägg är&lt;/div&gt;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="2010" y="960" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-408" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.457;entryY=-0.043;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-390" target="JomCGkU0Td-zEKEgO0xe-396" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-412" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.997;entryY=0.481;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-203" target="JomCGkU0Td-zEKEgO0xe-201" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="1939" />
+              <mxPoint x="360" y="1858" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JomCGkU0Td-zEKEgO0xe-413" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.005;entryY=0.537;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="JomCGkU0Td-zEKEgO0xe-257" target="JomCGkU0Td-zEKEgO0xe-255" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="1939" />
+              <mxPoint x="680" y="1861" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qfBdnm5MV9QDAe32HDsa-24" value="KALLA PÅ menuFooter" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="190" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
